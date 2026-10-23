@@ -9,7 +9,7 @@ Dutchman CAD is a home for open CAD tools: moving designs between programs, test
 | Project | What it does | Status |
 |---|---|---|
 | [**Dutchman**](https://github.com/dutchman-cad/dutchman) | Converts native CAD designs (Fusion, Inventor, SolidWorks, and FreeCAD) into SolidCraft designs, keeping feature history, sketches, assemblies, and joints where it can. Also writes FreeCAD documents. | Early development; desktop app and command line for Windows, macOS, and Linux |
-| [**Fixtures**](https://github.com/dutchman-cad/fixtures) | Small, known test files made by volunteers in the real CAD programs, from short recipes, so the readers behind Dutchman can be checked against ground truth. | Collecting; volunteers welcome |
+| [**Fixtures**](https://dutchman-cad.github.io/fixtures/) | Small, known test files made by volunteers in the real CAD programs, from short recipes, so the readers behind Dutchman can be checked against ground truth. | Collecting; volunteers welcome |
 | **SolidCraft-Pilot** | Helps smaller, local language models drive SolidCraft reliably, from outside the app. | Coming soon |
 
 ## Principles
@@ -21,4 +21,4 @@ Dutchman CAD is a home for open CAD tools: moving designs between programs, test
 ## Get involved
 
 - Try [Dutchman](https://github.com/dutchman-cad/dutchman#download) on your own designs, and [report anything that doesn't convert](https://github.com/dutchman-cad/dutchman/issues/new/choose).
-- Make a few [fixture files](https://github.com/dutchman-cad/fixtures) in the CAD program you use.
+- Make a few [fixture files](https://dutchman-cad.github.io/fixtures/) in the CAD program you use.
