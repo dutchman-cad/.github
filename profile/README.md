@@ -2,7 +2,7 @@
 
 Open tools for people who design with CAD and don't want their work locked inside one program.
 
-Dutchman CAD collects the tools that sit around [SolidCraft](https://github.com/tangency-labs/solidcraft), the open-source parametric CAD app, but don't belong inside it: getting designs in from other programs, testing that they come through right, and helping more people and tools drive it.
+Dutchman CAD is a home for open CAD tools: moving designs between programs, testing that they come through right, and helping more people and tools work with them. Much of it is built around [SolidCraft](https://github.com/tangency-labs/solidcraft), the open-source parametric CAD app, but not all of it, and none of it needs to live inside one app.
 
 ## Projects
 
