@@ -7,7 +7,7 @@ Open tools for people who design with CAD and don't want their work locked insid
 <!-- glance:start -->
 ## At a glance
 
-- **Dutchman Convert:** v0.1.5 · converts Fusion, Inventor, and FreeCAD files to SolidCraft; SolidWorks in progress
+- **Dutchman Convert:** v0.2.0 · converts Fusion, Inventor, FreeCAD, SolidWorks parts, CATIA, Rhino, ACIS, Creo View, and STEP to SolidCraft · DM Dutchy a file that fails
 - **Install:** `brew install dutchman-cad/tap/dutchman` · Windows: Scoop (dutchman-cad bucket)
 - **Send us a file:** a CAD file that won't convert? DM Dutchy on the Discord (drag it in, plus its STEP export if you have one) and choose Send privately · bigger than 10 MB: /volunteer
 - **Try it in a browser:** <https://dutchman-cad.github.io/demo/> · a converted design open in SolidCraft's web app
