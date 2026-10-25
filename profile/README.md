@@ -4,6 +4,19 @@ Open tools for people who design with CAD and don't want their work locked insid
 
 [![Discord](https://img.shields.io/badge/Discord-Dutchman%20CAD-5865F2?logo=discord&logoColor=white)](https://discord.gg/yTcseBEdeu)
 
+<!-- glance:start -->
+## At a glance
+
+- **Dutchman Convert:** v0.1.5 · converts Fusion, Inventor, and FreeCAD files to SolidCraft; SolidWorks in progress
+- **Install:** `brew install dutchman-cad/tap/dutchman` · Windows: Scoop (dutchman-cad bucket)
+- **Send us a file:** a CAD file that won't convert? DM Dutchy on the Discord (drag it in, plus its STEP export if you have one) and choose Send privately · bigger than 10 MB: /volunteer
+- **Try it in a browser:** <https://dutchman-cad.github.io/demo/> · a converted design open in SolidCraft's web app
+- **Pilot:** v0.1.0-beta.4 · helps small local AI models drive SolidCraft and SolidCraft 98 · type /report in the Assistant to report a problem
+- **Fixtures:** small, known CAD test files made from short recipes · type /volunteer to help
+- **SolidCraft 98:** v1.2 · news in #solidcraft98-updates
+- **Discord invite:** <https://discord.gg/yTcseBEdeu>
+<!-- glance:end -->
+
 Dutchman CAD is a home for open CAD tools: moving designs between programs, testing that they come through right, and helping more people and tools work with them. Much of it is built around [SolidCraft](https://github.com/tangency-labs/solidcraft), the open-source parametric CAD app, but not all of it, and none of it needs to live inside one app.
 
 ## Projects
