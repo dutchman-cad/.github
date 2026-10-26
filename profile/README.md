@@ -11,6 +11,7 @@ Open tools for people who design with CAD and don't want their work locked insid
 - **Install:** `brew install dutchman-cad/tap/dutchman` · Windows: Scoop (dutchman-cad bucket)
 - **Send us a file:** a CAD file that won't convert? DM Dutchy on the Discord (drag it in, plus its STEP export if you have one) and choose Send privately · bigger than 10 MB: /volunteer
 - **Try it in a browser:** <https://dutchman-cad.github.io/demo/> · a converted design open in SolidCraft's web app
+- **Self-host:** `docker pull ghcr.io/dutchman-cad/dutchman` · the browser converter and a watched folder on your own server or NAS (amd64 and arm64) · <https://github.com/dutchman-cad/dutchman/blob/main/docs/docker.md>
 - **Pilot:** v0.1.0-beta.4 · helps small local AI models drive SolidCraft and SolidCraft 98 · type /report in the Assistant to report a problem
 - **Fixtures:** small, known CAD test files made from short recipes · type /volunteer to help
 - **SolidCraft 98:** v1.2 · news in #solidcraft98-updates
@@ -31,6 +32,7 @@ Dutchman CAD is a home for open CAD tools: moving designs between programs, test
 
 - **Homebrew** (macOS, Linux): `brew install dutchman-cad/tap/dutchman` for Dutchman Convert (with `dutchman pilot`), `brew install dutchman-cad/tap/dutchman-pilot` for Pilot alone.
 - **Scoop** (Windows): `scoop bucket add dutchman-cad https://github.com/dutchman-cad/scoop-bucket`, then `scoop install dutchman-cad/dutchman` or `dutchman-cad/dutchman-pilot`.
+- **Docker** (self-host, amd64 and arm64): `docker pull ghcr.io/dutchman-cad/dutchman` runs Dutchman Convert's browser converter or a watched folder on your own server or NAS ([Docker guide](https://github.com/dutchman-cad/dutchman/blob/main/docs/docker.md)).
 - **Download**: each project's releases page has the desktop app and command-line archives.
 
 ## Principles
