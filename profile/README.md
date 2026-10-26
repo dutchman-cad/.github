@@ -12,7 +12,7 @@ Open tools for people who design with CAD and don't want their work locked insid
 - **Send us a file:** a CAD file that won't convert? DM Dutchy on the Discord (drag it in, plus its STEP export if you have one) and choose Send privately · bigger than 10 MB: /volunteer
 - **Try it in a browser:** <https://dutchman-cad.github.io/demo/> · a converted design open in SolidCraft's web app
 - **Self-host:** `docker pull ghcr.io/dutchman-cad/dutchman` · the browser converter and a watched folder on your own server or NAS (amd64 and arm64) · <https://github.com/dutchman-cad/dutchman/blob/main/docs/docker.md>
-- **Pilot:** v0.1.0-beta.4 · helps small local AI models drive SolidCraft and SolidCraft 98 · type /report in the Assistant to report a problem
+- **Pilot:** v0.1.0-beta.5 · helps small local AI models drive SolidCraft and SolidCraft 98 · now fills recipe forms for common parts · type /report in the Assistant to report a problem
 - **Fixtures:** small, known CAD test files made from short recipes · type /volunteer to help
 - **SolidCraft 98:** v1.2 · news in #solidcraft98-updates
 - **Discord invite:** <https://discord.gg/yTcseBEdeu>
