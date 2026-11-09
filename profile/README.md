@@ -7,7 +7,7 @@ Open tools for people who design with CAD and don't want their work locked insid
 <!-- glance:start -->
 ## At a glance
 
-- **Dutchman Convert:** v0.2.7 · converts Fusion, Inventor, FreeCAD, SolidWorks parts and assemblies, CATIA, Rhino, ACIS, Creo View, and STEP to SolidCraft · whole projects from a folder or ZIP · `dutchman doctor` checks a folder for problems · Windows installer that updates itself · ask your AI about a converted file · DM Dutchy a file that fails
+- **Dutchman Convert:** v0.2.8 · converts Fusion, Inventor, FreeCAD, SolidWorks parts and assemblies, CATIA, Rhino, ACIS, Creo View, and STEP to SolidCraft · whole projects from a folder or ZIP · `dutchman doctor` checks a folder for problems · Windows installer that updates itself, no terminal windows · ask your AI about a converted file · DM Dutchy a file that fails
 - **Install:** `brew install dutchman-cad/tap/dutchman` · Mac app: `brew install --cask dutchman-cad/tap/dutchman-convert` · Windows: the installer (MSI) from the release page, or Scoop (dutchman-cad bucket)
 - **Send us a file:** a CAD file that won't convert, in any format? DM Dutchy on the Discord (drag it in, plus its STEP export if you have one) and choose Send privately · bigger than 10 MB: /upload (your own permanent private link by DM; files up to 300 MB or one zip up to 1.5 GB; /upload new replaces it) · or paste a OneDrive, Google Drive, Dropbox, or WeTransfer link in the DM · the desktop app's failure card opens this DM for you and gets you a one-time private link if the file is too big · every DM to Dutchy gets a reply and reaches a person
 - **Try it in a browser:** <https://dutchman-cad.github.io/demo/> · converted designs in SolidCraft's web app, including two complete 3D printers
